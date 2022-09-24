@@ -1,0 +1,66 @@
+@keyframes change-color{
+    0%{background-color:red; top:10px; left:10px;}
+    20%{background-color:orange; top:20px; left:20px;}
+    40%{background-color:yellow; top:30px; left:30px;}
+    60%{background-color:green; top:40px; left:40px;}
+    80%{background-color:blue; top:50px; left:50px;}
+    100%{background-color:purple; top:60px; left:60px;}
+}
+*{
+    color:red;
+    background-color: blanchedalmond;
+}
+ul li{
+    color:black;
+}
+p{
+    color:blue;
+}
+.vtuber{
+    color:pink;
+}
+.lol{
+    color:brown
+}
+#mymain,.op{
+    background-color:black;
+}
+#header{
+    background-color:blue;
+}
+[type],[href]{
+    background-color:green;
+}
+p:hover{
+    color:black;
+}
+.container{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:column;
+    height:300px;
+    border:1px solid red;
+    justify-content:center;
+    align-content:center;
+}
+.container div{
+    border:1px solid black;
+    padding:10px;
+    width:100px;
+    height:20px;
+}
+.box{
+    width:200px;
+    height:200px;
+    background-color:grey;
+    position:relative;
+}
+.box-animation:hover{
+    animation-name:change-color;
+    animation-duration:2s;
+    animation-iteration-count:infinite;
+}
+#title{
+    display:flex;
+    flex-wrap:wrap;
+}

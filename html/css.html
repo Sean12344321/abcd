@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>css</title>
+        <!--引入外部css檔案-->
+        <link rel="stylesheet" href="style.css" />    
+    </head>
+    <body style="height:2000px">
+        <!--css-->
+        <!--dashed 虛線 solid 實線-->
+        <div style="color:red; font-size:30px">
+            <h1 style="color:aqua; background-color: green;">CSS學習成果</h1>
+            <p style="border:5px solid purple; max-width:3000px;">這是一個段落</p>
+        </div>
+        <!--padding(內部) & margin(外部)-->
+        <div style="padding:30px 30px 40px 40px; margin-top:30px;background-color:gold; border:3px dashed brown; "> 
+            <p style="color:black;"> padding & margin</p>
+        </div>
+        <!--float(漂浮) & display(顯示)-->
+        <img src="https://thumbor.4gamers.com.tw/B_K95CJeA_Xoy_l2inYK5Yg7jiI=/800x0/filters:extract_cover():no_upscale():quality(80)/https%3A%2F%2Fimg.4gamers.com.tw%2Fckfinder%2Fimages%2FALIEN%2F2021-5%2FE0v2QsvWUAAF2G_.jpg%3FversionId%3DDHqpoQPqoNgMYWPQ.dj5p95pvSjTrxc7 " width = 40 style="float:right;"/>
+        <p>cute</p>
+        <!--block & inline-->
+        <p style="display:inline;">你好</p>
+        <p style="display:inline;">早安</p>
+        <!-- position -->
+        <!--fixed(固定定位)) & relative(相對定位) & absolute(絕對定位)-->
+        <div style="position:fixed; top:0px;width:2000px; height:40px;background-color:black;"></div>
+        <div style="position:relative; top:5px;width:120px; height:120px;background-color: red;"></div>
+        <br/>
+        <div style="position:relative; padding:30px; border:5px solid red;">
+            <div style="position:relative; padding:30px; border:5px solid red;">
+                <div style="position:absolute; top:0px; right:0px ;width:40px; height:40px; background-color: blue; "></div>
+            </div>
+        </div>
+        <!-- opacity(透明度 , 0 ~ 1) & border-radius(讓正方形變圓形) -->
+        <p style="position:relative; top:65px; left:25px;">你好</p>
+        <div style="opacity:1;border-radius:30px 0px 40px 50px;width:80px; height:80px; background-color:blue;"></div>
+        <p>我是紅色的但我沒寫css</p>
+        <!-- class & id(只能有一個)-->
+        <p class="vtuber"> memei </p>
+        <p class="vtuber"> kronii</p>
+        <p class="vtuber"> ina </p>
+        <p class="lol op "> yasuo </p>
+        <p class="lol op"> sion </p>
+        <p class="lol"> zed </p>
+        <p id="mymain"> Pzzang </p>
+        <!--更多css用法-->
+        <ul>
+            <li><a href="https://www.youtube.com/watch?v=Ml78vnNTBLw&t=2352s">小白的影片</a></li>
+            <li>fackbook</li>
+            <li>ig</li>
+        </ul>
+        <input type="text" placeholder="Please enter your account"/>
+        <br/>
+        <input type="password" placeholder="Please enter your password"/>
+        <!-- flex -->
+        <div class="container">
+            <div class="box-1">區塊1</div>
+            <div class="box-2">區塊2</div>
+            <div class="box-3">區塊3</div>
+        </div>
+        <!--animation-->
+        <div class="box box-animation"></div>
+    </body>
+</html>

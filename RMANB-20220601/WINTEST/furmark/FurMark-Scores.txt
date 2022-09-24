@@ -1,0 +1,8 @@
+Intel HD Graphics 3000 - [Score=0] - [DurationInMs=1705032704] - [Resolution=794x572] - [MSAA=0X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=51.0A - FurMark 1.10.3 - [Date=Wed Nov 27 08:45:11 2013 ]
+Intel HD Graphics 3000 - [Score=0] - [DurationInMs=60] - [Resolution=1376x756] - [MSAA=0X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=44.0A - FurMark 1.10.3 - [Date=Wed Nov 27 08:47:19 2013 ]
+Intel HD Graphics 3000 - [Score=0] - [DurationInMs=600] - [Resolution=1376x756] - [MSAA=0X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=42.0A - FurMark 1.10.3 - [Date=Wed Nov 27 08:47:42 2013 ]
+Intel HD Graphics 3000 - [Score=24] - [DurationInMs=6000] - [Resolution=1376x756] - [MSAA=0X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=53.0A - FurMark 1.10.3 - [Date=Wed Nov 27 08:48:21 2013 ]
+Intel HD Graphics 3000 - [Score=0] - [DurationInMs=600000] - [Resolution=1376x756] - [MSAA=0X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=70.0A - FurMark 1.10.3 - [Date=Wed Nov 27 09:06:56 2013 ]
+Intel HD Graphics 3000 - [Score=237] - [DurationInMs=60000] - [Resolution=1376x756] - [MSAA=0X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=66.0A - FurMark 1.10.3 - [Date=Wed Nov 27 09:15:32 2013 ]
+Intel HD Graphics 3000 - [Score=237] - [DurationInMs=60000] - [Resolution=1376x756] - [MSAA=0X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=69.0A - FurMark 1.10.3 - [Date=Wed Nov 27 09:17:09 2013 ]
+Intel HD Graphics 3000 - [Score=0] - [DurationInMs=6000000] - [Resolution=1376x756] - [MSAA=0X] - [Mode=Windowed] - GPU Temp Max=0.0°C - GPU VDDC Current Max=70.0A - FurMark 1.10.3 - [Date=Wed Nov 27 09:25:43 2013 ]

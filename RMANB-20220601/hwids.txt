@@ -1,0 +1,1235 @@
+{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&2F0C0F8D&0&13
+    Name: Microsoft Wi-Fi Direct Virtual Adapter
+    Hardware IDs:
+        {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd
+    Compatible IDs:
+        {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd
+{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&2F0C0F8D&0&14
+    Name: Microsoft Wi-Fi Direct Virtual Adapter #2
+    Hardware IDs:
+        {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd
+    Compatible IDs:
+        {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd
+ACPI\PNP0100\4&16A54EB&0
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0100
+        ACPI\PNP0100
+        *PNP0100
+PCI\VEN_14C3&DEV_0608&SUBSYS_060814C3&REV_00\4&2098F532&0&000A
+    Name: RZ608 Wi-Fi 6E 80MHz
+    Hardware IDs:
+        PCI\VEN_14C3&DEV_0608&SUBSYS_060814C3&REV_00
+        PCI\VEN_14C3&DEV_0608&SUBSYS_060814C3
+        PCI\VEN_14C3&DEV_0608&CC_028000
+        PCI\VEN_14C3&DEV_0608&CC_0280
+    Compatible IDs:
+        PCI\VEN_14C3&DEV_0608&REV_00
+        PCI\VEN_14C3&DEV_0608
+        PCI\VEN_14C3&CC_028000
+        PCI\VEN_14C3&CC_0280
+        PCI\VEN_14C3
+        PCI\CC_028000&DT_0
+        PCI\CC_028000
+        PCI\CC_0280&DT_0
+        PCI\CC_0280
+STORAGE\VOLUME\{CB5A8591-7EF3-11EC-9194-806E6F6E6963}#0000000012D00000
+    Name:     Hardware IDs:
+        STORAGE\Volume
+SW\{96E080C7-143C-11D1-B40F-00A0C9223196}\{3C0D501A-140B-11D1-B40F-00A0C9223196}
+    Name: Microsoft     Hardware IDs:
+        SW\{96E080C7-143C-11D1-B40F-00A0C9223196}
+ACPI\PNP0C0A\1
+    Name: Microsoft ACPI     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C0A
+        ACPI\PNP0C0A
+        *PNP0C0A
+SWD\PRINTENUM\{8B37EE09-F9D9-436A-B15E-815C628918A3}
+    Name: Microsoft XPS Document Writer
+    Hardware IDs:
+        PRINTENUM\{0f4130dd-19c7-7ab6-99a1-980f03b2ee4e}
+        PRINTENUM\LocalPrintQueue
+        {0f4130dd-19c7-7ab6-99a1-980f03b2ee4e}
+    Compatible IDs:
+        GenPrintQueue
+        SWD\GenericRaw
+        SWD\Generic
+SWD\RADIO\{DFCD4C83-F512-46CC-A675-C9AD5A68B5F8}
+    Name: Wi-Fi
+    Compatible IDs:
+        SWD\GenericRaw
+        SWD\Generic
+ACPI\PNP0C02\4&2FEAE042&0
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C02
+        ACPI\PNP0C02
+        *PNP0C02
+SWD\PRINTENUM\PRINTQUEUES
+    Name:     Hardware IDs:
+        PRINTENUM\LocalPrintQueue
+    Compatible IDs:
+        SWD\GenericRaw
+        SWD\Generic
+STORAGE\VOLUME\{CB5A8591-7EF3-11EC-9194-806E6F6E6963}#0000000000100000
+    Name:     Hardware IDs:
+        STORAGE\Volume
+PCISTOR\DISK&VEN_RSPER&PROD_RTS5208LUN0&REV_1.00\0000
+    Name: SDHC Card
+    Hardware IDs:
+        RSPCIESTOR\GenDisk
+        GenDisk
+    Compatible IDs:
+        SCSI\Disk
+HDAUDIO\FUNC_01&VEN_10EC&DEV_0256&SUBSYS_1462137D&REV_1000\5&19863E17&0&0001
+    Name: Realtek(R) Audio
+    Hardware IDs:
+        HDAUDIO\FUNC_01&VEN_10EC&DEV_0256&SUBSYS_1462137D&REV_1000
+        HDAUDIO\FUNC_01&VEN_10EC&DEV_0256&SUBSYS_1462137D
+    Compatible IDs:
+        HDAUDIO\FUNC_01&CTLR_VEN_1022&CTLR_DEV_15E3&VEN_10EC&DEV_0256&REV_1000
+        HDAUDIO\FUNC_01&CTLR_VEN_1022&VEN_10EC&DEV_0256&REV_1000
+        HDAUDIO\FUNC_01&VEN_10EC&DEV_0256&REV_1000
+        HDAUDIO\FUNC_01&CTLR_VEN_1022&CTLR_DEV_15E3&VEN_10EC&DEV_0256
+        HDAUDIO\FUNC_01&CTLR_VEN_1022&VEN_10EC&DEV_0256
+        HDAUDIO\FUNC_01&VEN_10EC&DEV_0256
+        HDAUDIO\FUNC_01&CTLR_VEN_1022&CTLR_DEV_15E3&VEN_10EC
+        HDAUDIO\FUNC_01&CTLR_VEN_1022&VEN_10EC
+        HDAUDIO\FUNC_01&VEN_10EC
+        HDAUDIO\FUNC_01&CTLR_VEN_1022&CTLR_DEV_15E3
+        HDAUDIO\FUNC_01&CTLR_VEN_1022
+        HDAUDIO\FUNC_01&GF&VEN_10EC&DEV_0256&SUBSYS_1462137D&REV_1000
+        HDAUDIO\FUNC_01
+USB\VID_5986&PID_211C\6&11235C93&0&4
+    Name: USB Composite Device
+    Hardware IDs:
+        USB\VID_5986&PID_211C&REV_0311
+        USB\VID_5986&PID_211C
+    Compatible IDs:
+        USB\DevClass_00&SubClass_00&Prot_00
+        USB\DevClass_00&SubClass_00
+        USB\DevClass_00
+        USB\COMPOSITE
+ROOT\VOLMGR\0000
+    Name:     Hardware IDs:
+        ROOT\VOLMGR
+    Compatible IDs:
+        DETECTEDInternal\volmgr
+        DETECTED\volmgr
+ACPI\PNP0103\2&DABA3FF&2
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0103
+        ACPI\PNP0103
+        *PNP0103
+PCI\VEN_1022&DEV_144E&SUBSYS_00000000&REV_00\3&11583659&2&C6
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_144E&SUBSYS_00000000&REV_00
+        PCI\VEN_1022&DEV_144E&SUBSYS_00000000
+        PCI\VEN_1022&DEV_144E&REV_00
+        PCI\VEN_1022&DEV_144E
+        PCI\VEN_1022&DEV_144E&CC_060000
+        PCI\VEN_1022&DEV_144E&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+SWD\PRINTENUM\{D1242DCA-F7A2-4787-8EDC-6DF442F6DB53}
+    Name: OneNote (Desktop)
+    Hardware IDs:
+        PRINTENUM\{3ee39114-30b4-45a4-a109-19d4a40fcc22}
+        PRINTENUM\LocalPrintQueue
+        {3ee39114-30b4-45a4-a109-19d4a40fcc22}
+    Compatible IDs:
+        GenPrintQueue
+        SWD\GenericRaw
+        SWD\Generic
+SWD\MSRRAS\MS_PPPOEMINIPORT
+    Name: WAN Miniport (PPPOE)
+    Hardware IDs:
+        ms_pppoeminiport
+    Compatible IDs:
+        SWD\Generic
+SCSI\DISK&VEN_NVME&PROD_KINGSTON_OM8PCP3\5&167CC553&0&000000
+    Name: KINGSTON OM8PCP3512F-AI1
+    Hardware IDs:
+        SCSI\DiskNVMe____________________KINGSTON_OM8PCP3512F-AI1ECFK52.8
+        SCSI\DiskNVMe____________________KINGSTON_OM8PCP3512F-AI1
+        SCSI\DiskNVMe____KINGSTON_OM8PCP352.8
+        SCSI\DiskNVMe____KINGSTON_OM8PCP3
+        SCSI\DiskNVMe____
+        SCSI\NVMe____KINGSTON_OM8PCP35
+        NVMe____KINGSTON_OM8PCP35
+        GenDisk
+    Compatible IDs:
+        SCSI\Disk
+        SCSI\RAW
+        Disk1667
+PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&2&08
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00
+        PCI\VEN_1022&DEV_1632&SUBSYS_00000000
+        PCI\VEN_1022&DEV_1632&REV_00
+        PCI\VEN_1022&DEV_1632
+        PCI\VEN_1022&DEV_1632&CC_060000
+        PCI\VEN_1022&DEV_1632&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&2&10
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00
+        PCI\VEN_1022&DEV_1632&SUBSYS_00000000
+        PCI\VEN_1022&DEV_1632&REV_00
+        PCI\VEN_1022&DEV_1632
+        PCI\VEN_1022&DEV_1632&CC_060000
+        PCI\VEN_1022&DEV_1632&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00\3&11583659&2&40
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_1632&SUBSYS_00000000&REV_00
+        PCI\VEN_1022&DEV_1632&SUBSYS_00000000
+        PCI\VEN_1022&DEV_1632&REV_00
+        PCI\VEN_1022&DEV_1632
+        PCI\VEN_1022&DEV_1632&CC_060000
+        PCI\VEN_1022&DEV_1632&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+ROOT\BASICDISPLAY\0000
+    Name: Microsoft     Hardware IDs:
+        ROOT\BasicDisplay
+ACPI\THERMALZONE\THRM
+    Name: ACPI     Hardware IDs:
+        ACPI\ThermalZone
+        *ThermalZone
+SWD\MMDEVAPI\{0.0.1.00000000}.{455D12A5-61EC-47AE-A56E-3A17D862F6EF}
+    Name:     Hardware IDs:
+        MMDEVAPI\AudioEndpoints
+    Compatible IDs:
+        GenericAudioEndpoint
+        SWD\GenericRaw
+        SWD\Generic
+ROOT\HVSERVICE\0000
+    Name: Microsoft Hypervisor     Hardware IDs:
+        ROOT\hvservice
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\1
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\2
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\3
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\4
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\5
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\6
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\7
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\8
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\9
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\A
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\B
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\C
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\D
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\E
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\F
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ACPI\AMDI0030\0
+    Name: AMD GPIO Controller
+    Hardware IDs:
+        ACPI\VEN_AMDI&DEV_0030
+        ACPI\AMDI0030
+        *AMDI0030
+    Compatible IDs:
+        ACPI\AMDI0030
+        AMDI0030
+PCI\VEN_1022&DEV_1635&SUBSYS_16351022&REV_00\3&11583659&2&41
+    Name: PCI Express Root Port
+    Hardware IDs:
+        PCI\VEN_1022&DEV_1635&SUBSYS_16351022&REV_00
+        PCI\VEN_1022&DEV_1635&SUBSYS_16351022
+        PCI\VEN_1022&DEV_1635&CC_060400
+        PCI\VEN_1022&DEV_1635&CC_0604
+    Compatible IDs:
+        PCI\VEN_1022&DEV_1635&REV_00
+        PCI\VEN_1022&DEV_1635
+        PCI\VEN_1022&CC_060400
+        PCI\VEN_1022&CC_0604
+        PCI\VEN_1022
+        PCI\CC_060400&DT_4
+        PCI\CC_060400
+        PCI\CC_0604&DT_4
+        PCI\CC_0604
+SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+    Name: Microsoft RRAS Root Enumerator
+    Compatible IDs:
+        SWD\GenericRaw
+        SWD\Generic
+ACPI\ACPI0010\1
+    Name: ACPI     Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0010
+        ACPI\ACPI0010
+        *ACPI0010
+    Compatible IDs:
+        *PNP0A05
+ACPI\PNP0C14\0
+    Name: Microsoft Windows Management Interface for ACPI
+    Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C14
+        ACPI\PNP0C14
+        *PNP0C14
+SWD\PRINTENUM\{10F875D6-EA40-4270-A982-364E3E4D1CDE}
+    Name: Microsoft Print to PDF
+    Hardware IDs:
+        PRINTENUM\{084f01fa-e634-4d77-83ee-074817c03581}
+        PRINTENUM\LocalPrintQueue
+        {084f01fa-e634-4d77-83ee-074817c03581}
+    Compatible IDs:
+        GenPrintQueue
+        SWD\GenericRaw
+        SWD\Generic
+PCI\VEN_1022&DEV_144B&SUBSYS_00000000&REV_00\3&11583659&2&C3
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_144B&SUBSYS_00000000&REV_00
+        PCI\VEN_1022&DEV_144B&SUBSYS_00000000
+        PCI\VEN_1022&DEV_144B&REV_00
+        PCI\VEN_1022&DEV_144B
+        PCI\VEN_1022&DEV_144B&CC_060000
+        PCI\VEN_1022&DEV_144B&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+SWD\DRIVERENUM\AMDUWP&5&39065824&0
+    Name: AMD-UWP Version Control
+    Hardware IDs:
+        SWC\VID1002&PID0001
+    Compatible IDs:
+        SWC\Generic
+        SWD\GenericRaw
+        SWD\Generic
+SWD\MSRRAS\MS_PPTPMINIPORT
+    Name: WAN Miniport (PPTP)
+    Hardware IDs:
+        ms_pptpminiport
+    Compatible IDs:
+        SWD\Generic
+STORAGE\VOLUME\{CB5A8591-7EF3-11EC-9194-806E6F6E6963}#0000007305D00000
+    Name:     Hardware IDs:
+        STORAGE\Volume
+ACPI\PNP0800\4&16A54EB&0
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0800
+        ACPI\PNP0800
+        *PNP0800
+ROOT\VID\0000
+    Name: Microsoft Hyper-V     Hardware IDs:
+        ROOT\VID
+USB\VID_0E8D&PID_0608&MI_00\7&330F77BF&1&0000
+    Name: RZ608 Bluetooth(R) Adapter
+    Hardware IDs:
+        USB\VID_0E8D&PID_0608&REV_0100&MI_00
+        USB\VID_0E8D&PID_0608&MI_00
+    Compatible IDs:
+        USB\Class_e0&SubClass_01&Prot_01
+        USB\Class_e0&SubClass_01
+        USB\Class_e0
+SWD\MSRRAS\MS_AGILEVPNMINIPORT
+    Name: WAN Miniport (IKEv2)
+    Hardware IDs:
+        ms_agilevpnminiport
+    Compatible IDs:
+        SWD\Generic
+ROOT\COMPOSITEBUS\0000
+    Name:     Hardware IDs:
+        ROOT\CompositeBus
+ROOT\VDRVROOT\0000
+    Name: Microsoft     Hardware IDs:
+        ROOT\vdrvroot
+SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&6&1B16E2CD&1
+    Name: Realtek Audio Effects Component
+    Hardware IDs:
+        SWC\VEN_10EC&AID_0011
+    Compatible IDs:
+        SWC\Generic
+        SWD\GenericRaw
+        SWD\Generic
+STORAGE\VOLUME\_??_PCISTOR#DISK&VEN_RSPER&PROD_RTS5208LUN0&REV_1.00#0000#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+    Name:     Hardware IDs:
+        STORAGE\Volume
+ROOT\SPACEPORT\0000
+    Name: Microsoft Storage Spaces Controller
+    Hardware IDs:
+        Root\Spaceport
+    Compatible IDs:
+        DETECTEDInternal\spaceport
+        DETECTED\spaceport
+SWD\MMDEVAPI\{0.0.0.00000000}.{3EC22445-B3A2-4962-B2AD-5D075B52F5CC}
+    Name:     Hardware IDs:
+        MMDEVAPI\AudioEndpoints
+    Compatible IDs:
+        GenericAudioEndpoint
+        SWD\GenericRaw
+        SWD\Generic
+PCI\VEN_1022&DEV_1634&SUBSYS_13101462&REV_00\3&11583659&2&0A
+    Name: PCI Express Root Port
+    Hardware IDs:
+        PCI\VEN_1022&DEV_1634&SUBSYS_13101462&REV_00
+        PCI\VEN_1022&DEV_1634&SUBSYS_13101462
+        PCI\VEN_1022&DEV_1634&CC_060400
+        PCI\VEN_1022&DEV_1634&CC_0604
+    Compatible IDs:
+        PCI\VEN_1022&DEV_1634&REV_00
+        PCI\VEN_1022&DEV_1634
+        PCI\VEN_1022&CC_060400
+        PCI\VEN_1022&CC_0604
+        PCI\VEN_1022
+        PCI\CC_060400&DT_4
+        PCI\CC_060400
+        PCI\CC_0604&DT_4
+        PCI\CC_0604
+PCI\VEN_1022&DEV_1634&SUBSYS_13101462&REV_00\3&11583659&2&0B
+    Name: PCI Express Root Port
+    Hardware IDs:
+        PCI\VEN_1022&DEV_1634&SUBSYS_13101462&REV_00
+        PCI\VEN_1022&DEV_1634&SUBSYS_13101462
+        PCI\VEN_1022&DEV_1634&CC_060400
+        PCI\VEN_1022&DEV_1634&CC_0604
+    Compatible IDs:
+        PCI\VEN_1022&DEV_1634&REV_00
+        PCI\VEN_1022&DEV_1634
+        PCI\VEN_1022&CC_060400
+        PCI\VEN_1022&CC_0604
+        PCI\VEN_1022
+        PCI\CC_060400&DT_4
+        PCI\CC_060400
+        PCI\CC_0604&DT_4
+        PCI\CC_0604
+PCI\VEN_1022&DEV_1634&SUBSYS_13101462&REV_00\3&11583659&2&14
+    Name: PCI Express Root Port
+    Hardware IDs:
+        PCI\VEN_1022&DEV_1634&SUBSYS_13101462&REV_00
+        PCI\VEN_1022&DEV_1634&SUBSYS_13101462
+        PCI\VEN_1022&DEV_1634&CC_060400
+        PCI\VEN_1022&DEV_1634&CC_0604
+    Compatible IDs:
+        PCI\VEN_1022&DEV_1634&REV_00
+        PCI\VEN_1022&DEV_1634
+        PCI\VEN_1022&CC_060400
+        PCI\VEN_1022&CC_0604
+        PCI\VEN_1022
+        PCI\CC_060400&DT_4
+        PCI\CC_060400
+        PCI\CC_0604&DT_4
+        PCI\CC_0604
+ROOT\KDNIC\0000
+    Name: Microsoft Kernel Debug Network Adapter
+    Hardware IDs:
+        root\kdnic
+ACPI\PNP0200\4&16A54EB&0
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0200
+        ACPI\PNP0200
+        *PNP0200
+PCI\VEN_1022&DEV_790E&SUBSYS_13101462&REV_51\3&11583659&2&A3
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_790E&SUBSYS_13101462&REV_51
+        PCI\VEN_1022&DEV_790E&SUBSYS_13101462
+        PCI\VEN_1022&DEV_790E&CC_060100
+        PCI\VEN_1022&DEV_790E&CC_0601
+    Compatible IDs:
+        PCI\VEN_1022&DEV_790E&REV_51
+        PCI\VEN_1022&DEV_790E
+        PCI\VEN_1022&CC_060100
+        PCI\VEN_1022&CC_0601
+        PCI\VEN_1022
+        PCI\CC_060100
+        PCI\CC_0601
+ACPI\MSNB0001\4&16A54EB&0
+    Name: PS/2     Hardware IDs:
+        ACPI\VEN_MSNB&DEV_0001
+        ACPI\MSNB0001
+        *MSNB0001
+    Compatible IDs:
+        *PNP0F13
+ACPI\PNP0B00\4&16A54EB&0
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0B00
+        ACPI\PNP0B00
+        *PNP0B00
+PCI\VEN_2646&DEV_500C&SUBSYS_500C2646&REV_01\4&299A0638&0&0014
+    Name:     Hardware IDs:
+        PCI\VEN_2646&DEV_500C&SUBSYS_500C2646&REV_01
+        PCI\VEN_2646&DEV_500C&SUBSYS_500C2646
+        PCI\VEN_2646&DEV_500C&CC_010802
+        PCI\VEN_2646&DEV_500C&CC_0108
+    Compatible IDs:
+        PCI\VEN_2646&DEV_500C&REV_01
+        PCI\VEN_2646&DEV_500C
+        PCI\VEN_2646&CC_010802
+        PCI\VEN_2646&CC_0108
+        PCI\VEN_2646
+        PCI\CC_010802&DT_0
+        PCI\CC_010802
+        PCI\CC_0108&DT_0
+        PCI\CC_0108
+PCI\VEN_10EC&DEV_525A&SUBSYS_13101462&REV_01\00000001004CE00000
+    Name: Realtek PCIE CardReader
+    Hardware IDs:
+        PCI\VEN_10EC&DEV_525A&SUBSYS_13101462&REV_01
+        PCI\VEN_10EC&DEV_525A&SUBSYS_13101462
+        PCI\VEN_10EC&DEV_525A&CC_FF0000
+        PCI\VEN_10EC&DEV_525A&CC_FF00
+    Compatible IDs:
+        PCI\VEN_10EC&DEV_525A&REV_01
+        PCI\VEN_10EC&DEV_525A
+        PCI\VEN_10EC&CC_FF0000
+        PCI\VEN_10EC&CC_FF00
+        PCI\VEN_10EC
+        PCI\CC_FF0000&DT_0
+        PCI\CC_FF0000
+        PCI\CC_FF00&DT_0
+        PCI\CC_FF00
+ACPI\MSI0007\4&16A54EB&0
+    Name:     Hardware IDs:
+        ACPI\VEN_MSI&DEV_0007
+        ACPI\MSI0007
+        *MSI0007
+    Compatible IDs:
+        *PNP0303
+USB\ROOT_HUB30\5&1ECA67C3&0&0
+    Name: USB     Hardware IDs:
+        USB\ROOT_HUB30&VID1022&PID1639&REV0000
+        USB\ROOT_HUB30&VID1022&PID1639
+        USB\ROOT_HUB30
+ROOT\UMBUS\0000
+    Name: UMBus Root Bus Enumerator
+    Hardware IDs:
+        root\umbus
+HID\PNP0C50&COL04\4&726BA71&1&0003
+    Name:     Hardware IDs:
+        HID\VEN_PNP&DEV_0C50&Col04
+        HID\PNP0C50&Col04
+        HID\*PNP0C50&Col04
+        HID\VID_06CB&UP:FF00_U:0001
+        HID_DEVICE_UP:FF00_U:0001
+        HID_DEVICE_UPR:FF00-FFFF
+        HID_DEVICE
+ROOT\CAD\0000
+    Name:     Hardware IDs:
+        ROOT\CAD
+HID\PNP0C50&COL03\4&726BA71&1&0002
+    Name: Microsoft Input Configuration Device
+    Hardware IDs:
+        HID\VEN_PNP&DEV_0C50&Col03
+        HID\PNP0C50&Col03
+        HID\*PNP0C50&Col03
+        HID\VID_06CB&UP:000D_U:000E
+        HID_DEVICE_UP:000D_U:000E
+        HID_DEVICE
+SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+    Name: Microsoft Radio Device Enumeration Bus
+    Compatible IDs:
+        SWD\GenericRaw
+        SWD\Generic
+PCI\VEN_1022&DEV_144D&SUBSYS_00000000&REV_00\3&11583659&2&C5
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_144D&SUBSYS_00000000&REV_00
+        PCI\VEN_1022&DEV_144D&SUBSYS_00000000
+        PCI\VEN_1022&DEV_144D&REV_00
+        PCI\VEN_1022&DEV_144D
+        PCI\VEN_1022&DEV_144D&CC_060000
+        PCI\VEN_1022&DEV_144D&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+ACPI\PNP0C01\C8
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C01
+        ACPI\PNP0C01
+        *PNP0C01
+SWD\MSDAS\{CE958E9A-424F-4C88-86F4-11314821E75A}
+    Name: Microsoft Device Association Root Enumerator
+    Compatible IDs:
+        SWD\GenericRaw
+        SWD\Generic
+PCI\VEN_1022&DEV_790B&SUBSYS_13101462&REV_51\3&11583659&2&A0
+    Name: AMD SMBus
+    Hardware IDs:
+        PCI\VEN_1022&DEV_790B&SUBSYS_13101462&REV_51
+        PCI\VEN_1022&DEV_790B&SUBSYS_13101462
+        PCI\VEN_1022&DEV_790B&CC_0C0500
+        PCI\VEN_1022&DEV_790B&CC_0C05
+    Compatible IDs:
+        PCI\VEN_1022&DEV_790B&REV_51
+        PCI\VEN_1022&DEV_790B
+        PCI\VEN_1022&CC_0C0500
+        PCI\VEN_1022&CC_0C05
+        PCI\VEN_1022
+        PCI\CC_0C0500
+        PCI\CC_0C05
+ROOT\ACPI_HAL\0000
+    Name: ACPI x64     Hardware IDs:
+        acpiapic
+    Compatible IDs:
+        DETECTEDInternal\ACPI_HAL
+        DETECTED\ACPI_HAL
+HID\PNP0C50&COL02\4&726BA71&1&0001
+    Name:     Hardware IDs:
+        HID\VEN_PNP&DEV_0C50&Col02
+        HID\PNP0C50&Col02
+        HID\*PNP0C50&Col02
+        HID\VID_06CB&UP:000D_U:0005
+        HID_DEVICE_UP:000D_U:0005
+        HID_DEVICE
+USB\VID_0E8D&PID_0608\000000000
+    Name: USB Composite Device
+    Hardware IDs:
+        USB\VID_0E8D&PID_0608&REV_0100
+        USB\VID_0E8D&PID_0608
+    Compatible IDs:
+        USB\DevClass_00&SubClass_00&Prot_00
+        USB\DevClass_00&SubClass_00
+        USB\DevClass_00
+        USB\COMPOSITE
+SWD\MSRRAS\MS_NDISWANBH
+    Name: WAN Miniport (Network Monitor)
+    Hardware IDs:
+        ms_ndiswanbh
+    Compatible IDs:
+        SWD\Generic
+SWD\MSRRAS\MS_NDISWANIP
+    Name: WAN Miniport (IP)
+    Hardware IDs:
+        ms_ndiswanip
+    Compatible IDs:
+        SWD\Generic
+ACPI\PNP0C14\AOD
+    Name: Microsoft Windows Management Interface for ACPI
+    Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C14
+        ACPI\PNP0C14
+        *PNP0C14
+HDAUDIO\FUNC_01&VEN_1002&DEV_AA01&SUBSYS_00AA0100&REV_1007\5&63F2290&0&0001
+    Name: AMD High Definition Audio Device
+    Hardware IDs:
+        HDAUDIO\FUNC_01&VEN_1002&DEV_AA01&SUBSYS_00AA0100&REV_1007
+        HDAUDIO\FUNC_01&VEN_1002&DEV_AA01&SUBSYS_00AA0100
+    Compatible IDs:
+        HDAUDIO\FUNC_01&CTLR_VEN_1002&CTLR_DEV_1637&VEN_1002&DEV_AA01&REV_1007
+        HDAUDIO\FUNC_01&CTLR_VEN_1002&VEN_1002&DEV_AA01&REV_1007
+        HDAUDIO\FUNC_01&VEN_1002&DEV_AA01&REV_1007
+        HDAUDIO\FUNC_01&CTLR_VEN_1002&CTLR_DEV_1637&VEN_1002&DEV_AA01
+        HDAUDIO\FUNC_01&CTLR_VEN_1002&VEN_1002&DEV_AA01
+        HDAUDIO\FUNC_01&VEN_1002&DEV_AA01
+        HDAUDIO\FUNC_01&CTLR_VEN_1002&CTLR_DEV_1637&VEN_1002
+        HDAUDIO\FUNC_01&CTLR_VEN_1002&VEN_1002
+        HDAUDIO\FUNC_01&VEN_1002
+        HDAUDIO\FUNC_01&CTLR_VEN_1002&CTLR_DEV_1637
+        HDAUDIO\FUNC_01&CTLR_VEN_1002
+        HDAUDIO\FUNC_01&GF&VEN_1002&DEV_AA01&SUBSYS_00AA0100&REV_1007
+        HDAUDIO\FUNC_01
+PCI\VEN_1022&DEV_15E2&SUBSYS_13101462&REV_01\4&2FEAE042&0&0541
+    Name: AMD Audio CoProcessor
+    Hardware IDs:
+        PCI\VEN_1022&DEV_15E2&SUBSYS_13101462&REV_01
+        PCI\VEN_1022&DEV_15E2&SUBSYS_13101462
+        PCI\VEN_1022&DEV_15E2&CC_048000
+        PCI\VEN_1022&DEV_15E2&CC_0480
+    Compatible IDs:
+        PCI\VEN_1022&DEV_15E2&REV_01
+        PCI\VEN_1022&DEV_15E2
+        PCI\VEN_1022&CC_048000
+        PCI\VEN_1022&CC_0480
+        PCI\VEN_1022
+        PCI\CC_048000&DT_0
+        PCI\CC_048000
+        PCI\CC_0480&DT_0
+        PCI\CC_0480
+ACPI\PNP0A08\0
+    Name: PCI Express Root Complex
+    Hardware IDs:
+        ACPI\VEN_PNP&DEV_0A08
+        ACPI\PNP0A08
+        *PNP0A08
+    Compatible IDs:
+        *PNP0A03
+HID\PNP0C50&COL01\4&726BA71&1&0000
+    Name: HID-compliant mouse
+    Hardware IDs:
+        HID\VEN_PNP&DEV_0C50&Col01
+        HID\PNP0C50&Col01
+        HID\*PNP0C50&Col01
+        HID\VID_06CB&UP:0001_U:0002
+        HID_DEVICE_SYSTEM_MOUSE
+        HID_DEVICE_UP:0001_U:0002
+        HID_DEVICE
+PCI\VEN_1002&DEV_164C&SUBSYS_13101462&REV_C1\4&2FEAE042&0&0041
+    Name: AMD Radeon(TM) Graphics
+    Hardware IDs:
+        PCI\VEN_1002&DEV_164C&SUBSYS_13101462&REV_C1
+        PCI\VEN_1002&DEV_164C&SUBSYS_13101462
+        PCI\VEN_1002&DEV_164C&CC_030000
+        PCI\VEN_1002&DEV_164C&CC_0300
+    Compatible IDs:
+        PCI\VEN_1002&DEV_164C&REV_C1
+        PCI\VEN_1002&DEV_164C
+        PCI\VEN_1002&CC_030000
+        PCI\VEN_1002&CC_0300
+        PCI\VEN_1002
+        PCI\CC_030000&DT_1
+        PCI\CC_030000
+        PCI\CC_0300&DT_1
+        PCI\CC_0300
+PCI\VEN_1022&DEV_1449&SUBSYS_00000000&REV_00\3&11583659&2&C1
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_1449&SUBSYS_00000000&REV_00
+        PCI\VEN_1022&DEV_1449&SUBSYS_00000000
+        PCI\VEN_1022&DEV_1449&REV_00
+        PCI\VEN_1022&DEV_1449
+        PCI\VEN_1022&DEV_1449&CC_060000
+        PCI\VEN_1022&DEV_1449&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+SWD\WPDBUSENUM\_??_PCISTOR#DISK&VEN_RSPER&PROD_RTS5208LUN0&REV_1.00#0000#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}
+    Name: D:\
+    Compatible IDs:
+        wpdbusenum\fs
+        SWD\Generic
+ACPI_HAL\PNP0C08\0
+    Name: Microsoft ACPI-Compliant System
+    Hardware IDs:
+        ACPI_HAL\PNP0C08
+        *PNP0C08
+HTREE\ROOT\0
+    No hardware/compatible IDs found for this device.
+ROOT\BASICRENDER\0000
+    Name: Microsoft     Hardware IDs:
+        ROOT\BasicRender
+USB\ROOT_HUB30\5&37638F6D&0&0
+    Name: USB     Hardware IDs:
+        USB\ROOT_HUB30&VID1022&PID1639&REV0000
+        USB\ROOT_HUB30&VID1022&PID1639
+        USB\ROOT_HUB30
+ACPI\ACPI0003\5&24B0CC87&0
+    Name: Microsoft     Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0003
+        ACPI\ACPI0003
+        *ACPI0003
+SWD\MSRRAS\MS_SSTPMINIPORT
+    Name: WAN Miniport (SSTP)
+    Hardware IDs:
+        ms_sstpminiport
+    Compatible IDs:
+        SWD\Generic
+STORAGE\VOLUME\{CB5A8591-7EF3-11EC-9194-806E6F6E6963}#000000001AD00000
+    Name:     Hardware IDs:
+        STORAGE\Volume
+PCI\VEN_1022&DEV_144A&SUBSYS_00000000&REV_00\3&11583659&2&C2
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_144A&SUBSYS_00000000&REV_00
+        PCI\VEN_1022&DEV_144A&SUBSYS_00000000
+        PCI\VEN_1022&DEV_144A&REV_00
+        PCI\VEN_1022&DEV_144A
+        PCI\VEN_1022&DEV_144A&CC_060000
+        PCI\VEN_1022&DEV_144A&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+ACPI_HAL\UEFI\0
+    Name: Microsoft UEFI     Hardware IDs:
+        ACPI_HAL\UEFI
+ACPI\MSFT0101\1
+    Name:     Hardware IDs:
+        ACPI\VEN_MSFT&DEV_0101
+        ACPI\MSFT0101
+        *MSFT0101
+USB\VID_5986&PID_211C&MI_00\7&1C141B8C&0&0000
+    Name: HD Webcam
+    Hardware IDs:
+        USB\VID_5986&PID_211C&REV_0311&MI_00
+        USB\VID_5986&PID_211C&MI_00
+    Compatible IDs:
+        USB\Class_0e&SubClass_03&Prot_00
+        USB\Class_0e&SubClass_03
+        USB\Class_0e
+ACPI\AMDI0005\1
+    Name: AMD Micro PEP Device
+    Hardware IDs:
+        ACPI\VEN_AMDI&DEV_0005
+        ACPI\AMDI0005
+        *AMDI0005
+    Compatible IDs:
+        *PNP0D80
+PCI\VEN_1022&DEV_15DF&SUBSYS_15DF1022&REV_00\4&2FEAE042&0&0241
+    Name: AMD PSP 10.0 Device
+    Hardware IDs:
+        PCI\VEN_1022&DEV_15DF&SUBSYS_15DF1022&REV_00
+        PCI\VEN_1022&DEV_15DF&SUBSYS_15DF1022
+        PCI\VEN_1022&DEV_15DF&CC_108000
+        PCI\VEN_1022&DEV_15DF&CC_1080
+    Compatible IDs:
+        PCI\VEN_1022&DEV_15DF&REV_00
+        PCI\VEN_1022&DEV_15DF
+        PCI\VEN_1022&CC_108000
+        PCI\VEN_1022&CC_1080
+        PCI\VEN_1022
+        PCI\CC_108000&DT_0
+        PCI\CC_108000
+        PCI\CC_1080&DT_0
+        PCI\CC_1080
+DISPLAY\AUO2E8D\5&39065824&0&UID256
+    Name:     Hardware IDs:
+        MONITOR\AUO2E8D
+    Compatible IDs:
+        *PNP09FF
+PCI\VEN_1022&DEV_1630&SUBSYS_16301022&REV_00\3&11583659&2&00
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_1630&SUBSYS_16301022&REV_00
+        PCI\VEN_1022&DEV_1630&SUBSYS_16301022
+        PCI\VEN_1022&DEV_1630&CC_060000
+        PCI\VEN_1022&DEV_1630&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&DEV_1630&REV_00
+        PCI\VEN_1022&DEV_1630
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+ACPI\PNP0C02\15
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C02
+        ACPI\PNP0C02
+        *PNP0C02
+ACPI\PNP0C02\90
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C02
+        ACPI\PNP0C02
+        *PNP0C02
+PCI\VEN_1002&DEV_1637&SUBSYS_16371002&REV_00\4&2FEAE042&0&0141
+    Name: High Definition Audio Bus
+    Hardware IDs:
+        PCI\VEN_1002&DEV_1637&SUBSYS_16371002&REV_00
+        PCI\VEN_1002&DEV_1637&SUBSYS_16371002
+        PCI\VEN_1002&DEV_1637&CC_040300
+        PCI\VEN_1002&DEV_1637&CC_0403
+    Compatible IDs:
+        PCI\VEN_1002&DEV_1637&REV_00
+        PCI\VEN_1002&DEV_1637
+        PCI\VEN_1002&CC_040300
+        PCI\VEN_1002&CC_0403
+        PCI\VEN_1002
+        PCI\CC_040300&DT_1
+        PCI\CC_040300
+        PCI\CC_0403&DT_1
+        PCI\CC_0403
+UEFI\RES_{4C9E1395-7CF4-4907-A27D-00D55D0E0375}\0
+    Name:     Hardware IDs:
+        UEFI\RES_{4c9e1395-7cf4-4907-a27d-00d55d0e0375}&REV_111
+        UEFI\RES_{4c9e1395-7cf4-4907-a27d-00d55d0e0375}
+    Compatible IDs:
+        UEFI\CC_00010001
+        GenFirmwareResource
+ACPI\PNP0000\4&16A54EB&0
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0000
+        ACPI\PNP0000
+        *PNP0000
+ACP\VEN_1022&DEV_15E2&SUBSYS_14621310\5&6F40CCB&0&04
+    Name: AMD Audio Device
+    Hardware IDs:
+        ACP\VEN_1022&DEV_15E2&AFD_0000
+        ACP\VEN_1022&DEV_15E2
+        ACP\VEN_1022&DEV_15E2&SUBSYS_14621310
+        ACP\VEN_1022&DEV_15E2&SUBSYS_14621310&REV_01
+    Compatible IDs:
+        ACP\VEN_1022&DEV_15E2
+ACP\DEVTYPE_0001&DEVREV_0000&VEN_1022&DEV_15E2&SUBSYS_14621310&REV_01\5&6F40CCB&0&01
+    Name: ACP HDA Node
+    Hardware IDs:
+        ACP\DEVTYPE_0001&DEVREV_0000&VEN_1022&DEV_15E2&SUBSYS_14621310&REV_01
+        ACP\DEVTYPE_0001&DEVREV_0000&VEN_1022&DEV_15E2&SUBSYS_14621310
+        ACP\DEVTYPE_0001&DEVREV_0000&VEN_1022&DEV_15E2
+PCI\VEN_1022&DEV_144F&SUBSYS_00000000&REV_00\3&11583659&2&C7
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_144F&SUBSYS_00000000&REV_00
+        PCI\VEN_1022&DEV_144F&SUBSYS_00000000
+        PCI\VEN_1022&DEV_144F&REV_00
+        PCI\VEN_1022&DEV_144F
+        PCI\VEN_1022&DEV_144F&CC_060000
+        PCI\VEN_1022&DEV_144F&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+    Name: Microsoft GS Wavetable Synth
+    Compatible IDs:
+        SWD\GenericRaw
+        SWD\Generic
+ACPI\PNP0C0C\AA
+    Name: ACPI     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C0C
+        ACPI\PNP0C0C
+        *PNP0C0C
+SWD\PRINTENUM\{BA41C1BE-00A4-4460-B1D2-A1EF95FCEC89}
+    Name: Fax
+    Hardware IDs:
+        PRINTENUM\microsoftmicrosoft_s7d14
+        PRINTENUM\LocalPrintQueue
+        microsoftmicrosoft_s7d14
+    Compatible IDs:
+        GenPrintQueue
+        SWD\GenericRaw
+        SWD\Generic
+ROOT\NDISVIRTUALBUS\0000
+    Name: NDIS     Hardware IDs:
+        ROOT\NdisVirtualBus
+ACPI\PNP0C0D\5&24B0CC87&0
+    Name: ACPI     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C0D
+        ACPI\PNP0C0D
+        *PNP0C0D
+ACPI\AMDI0010\3
+    Name: AMD I2C Controller
+    Hardware IDs:
+        ACPI\VEN_AMDI&DEV_0010
+        ACPI\AMDI0010
+        *AMDI0010
+SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&6&1B16E2CD&1
+    Name: Realtek Hardware Support Application
+    Hardware IDs:
+        SWC\VEN_10EC&HID_0001
+    Compatible IDs:
+        SWC\Generic
+        SWD\GenericRaw
+        SWD\Generic
+SWD\RADIO\BLUETOOTH_38D57A181796
+    Name: Bluetooth
+    Compatible IDs:
+        SWD\GenericRaw
+        SWD\Generic
+PCI\VEN_1022&DEV_144C&SUBSYS_00000000&REV_00\3&11583659&2&C4
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_144C&SUBSYS_00000000&REV_00
+        PCI\VEN_1022&DEV_144C&SUBSYS_00000000
+        PCI\VEN_1022&DEV_144C&REV_00
+        PCI\VEN_1022&DEV_144C
+        PCI\VEN_1022&DEV_144C&CC_060000
+        PCI\VEN_1022&DEV_144C&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+ACPI\PNP0C02\700
+    Name:     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C02
+        ACPI\PNP0C02
+        *PNP0C02
+STORAGE\VOLUME\{CB5A8591-7EF3-11EC-9194-806E6F6E6963}#000000733E100000
+    Name:     Hardware IDs:
+        STORAGE\Volume
+ACPI\PNP0C09\4&16A54EB&0
+    Name: Microsoft ACPI     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C09
+        ACPI\PNP0C09
+        *PNP0C09
+ACPI\AUTHENTICAMD_-_AMD64_FAMILY_23_MODEL_104_-_AMD_RYZEN_7_5700U_WITH_RADEON_GRAPHICS_________\10
+    Name: AMD Ryzen 7 5700U with Radeon Graphics         
+    Hardware IDs:
+        ACPI\VEN_ACPI&DEV_0007
+        ACPI\AuthenticAMD_-_AMD64_Family_23_Model_104
+        *AuthenticAMD_-_AMD64_Family_23_Model_104
+        ACPI\AuthenticAMD_-_AMD64_Family_23
+        *AuthenticAMD_-_AMD64_Family_23
+        ACPI\AuthenticAMD_-_AMD64
+        *AuthenticAMD_-_AMD64
+    Compatible IDs:
+        ACPI\Processor
+ROOT\MSSMBIOS\0000
+    Name: Microsoft System Management BIOS Driver
+    Hardware IDs:
+        ROOT\mssmbios
+PCI\VEN_1022&DEV_1639&SUBSYS_13101462&REV_00\4&2FEAE042&0&0341
+    Name: AMD USB 3.10     Hardware IDs:
+        PCI\VEN_1022&DEV_1639&SUBSYS_13101462&REV_00
+        PCI\VEN_1022&DEV_1639&SUBSYS_13101462
+        PCI\VEN_1022&DEV_1639&CC_0C0330
+        PCI\VEN_1022&DEV_1639&CC_0C03
+    Compatible IDs:
+        PCI\VEN_1022&DEV_1639&REV_00
+        PCI\VEN_1022&DEV_1639
+        PCI\VEN_1022&CC_0C0330
+        PCI\VEN_1022&CC_0C03
+        PCI\VEN_1022
+        PCI\CC_0C0330&DT_0
+        PCI\CC_0C0330
+        PCI\CC_0C03&DT_0
+        PCI\CC_0C03
+PCI\VEN_1022&DEV_1639&SUBSYS_13101462&REV_00\4&2FEAE042&0&0441
+    Name: AMD USB 3.10     Hardware IDs:
+        PCI\VEN_1022&DEV_1639&SUBSYS_13101462&REV_00
+        PCI\VEN_1022&DEV_1639&SUBSYS_13101462
+        PCI\VEN_1022&DEV_1639&CC_0C0330
+        PCI\VEN_1022&DEV_1639&CC_0C03
+    Compatible IDs:
+        PCI\VEN_1022&DEV_1639&REV_00
+        PCI\VEN_1022&DEV_1639
+        PCI\VEN_1022&CC_0C0330
+        PCI\VEN_1022&CC_0C03
+        PCI\VEN_1022
+        PCI\CC_0C0330&DT_0
+        PCI\CC_0C0330
+        PCI\CC_0C03&DT_0
+        PCI\CC_0C03
+PCI\VEN_1022&DEV_1448&SUBSYS_00000000&REV_00\3&11583659&2&C0
+    Name: PCI     Hardware IDs:
+        PCI\VEN_1022&DEV_1448&SUBSYS_00000000&REV_00
+        PCI\VEN_1022&DEV_1448&SUBSYS_00000000
+        PCI\VEN_1022&DEV_1448&REV_00
+        PCI\VEN_1022&DEV_1448
+        PCI\VEN_1022&DEV_1448&CC_060000
+        PCI\VEN_1022&DEV_1448&CC_0600
+    Compatible IDs:
+        PCI\VEN_1022&CC_060000
+        PCI\VEN_1022&CC_0600
+        PCI\VEN_1022
+        PCI\CC_060000
+        PCI\CC_0600
+ACPI\PNP0C50\8
+    Name: I2C HID     Hardware IDs:
+        ACPI\VEN_PNP&DEV_0C50
+        ACPI\PNP0C50
+        *PNP0C50
+    Compatible IDs:
+        ACPI\PNP0C50
+        PNP0C50
+ROOT\SYSTEM\0000
+    Name:     Hardware IDs:
+        ROOT\SWENUM
+ROOT\RDPBUS\0000
+    Name:     Hardware IDs:
+        ROOT\RDPBUS
+SWD\MSRRAS\MS_NDISWANIPV6
+    Name: WAN Miniport (IPv6)
+    Hardware IDs:
+        ms_ndiswanipv6
+    Compatible IDs:
+        SWD\Generic
+SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&6&1B16E2CD&1
+    Name: Realtek Audio Universal Service
+    Hardware IDs:
+        SWC\VEN_10EC&SID_0001
+    Compatible IDs:
+        SWC\Generic
+        SWD\GenericRaw
+        SWD\Generic
+PCI\VEN_1022&DEV_15E3&SUBSYS_137D1462&REV_00\4&2FEAE042&0&0641
+    Name: High Definition Audio     Hardware IDs:
+        PCI\VEN_1022&DEV_15E3&SUBSYS_137D1462&REV_00
+        PCI\VEN_1022&DEV_15E3&SUBSYS_137D1462
+        PCI\VEN_1022&DEV_15E3&CC_040300
+        PCI\VEN_1022&DEV_15E3&CC_0403
+    Compatible IDs:
+        PCI\VEN_1022&DEV_15E3&REV_00
+        PCI\VEN_1022&DEV_15E3
+        PCI\VEN_1022&CC_040300
+        PCI\VEN_1022&CC_0403
+        PCI\VEN_1022
+        PCI\CC_040300&DT_0
+        PCI\CC_040300
+        PCI\CC_0403&DT_0
+        PCI\CC_0403
+SWD\MSRRAS\MS_L2TPMINIPORT
+    Name: WAN Miniport (L2TP)
+    Hardware IDs:
+        ms_l2tpminiport
+    Compatible IDs:
+        SWD\Generic
+144 matching device(s) found.

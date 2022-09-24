@@ -1,0 +1,48 @@
+[BIOS]
+Version = E155LAMS.111
+Date = 10/16/2021
+
+[System]
+Manufacturer = Micro-Star International Co., Ltd.
+Product = Modern 15 A5M
+Version = REV:1.0
+SerialNum = 9S7155L26092ZM1000266
+UUID = 882B0C423AA947FEA1A927AD44C6CFE8
+SKUNum = 155L.1
+Family = Modern
+
+[BaseBoard]
+Manufacturer = Micro-Star International Co., Ltd.
+Product = MS-155L
+Version = REV:1.0
+SerialNum = BSS-0123456789
+AssetTag = Default string
+LocInChassis = Default string
+
+[BaseBoardWithHandle]
+Handle = 0003
+Manufacturer = Micro-Star International Co., Ltd.
+Product = MS-155L
+Version = REV:1.0
+SerialNum = BSS-0123456789
+AssetTag = Default string
+LocInChassis = Default string
+
+[Chassis]
+Manufacturer = Micro-Star International Co., Ltd.
+ChassisType = 0A
+Version = N/A
+SerialNum = 22PN022435
+TagNum = No Asset Tag
+ChassisOEM = 00000000
+ChassisSKU = Default string
+
+[OemString]
+String =  
+String = $BIOSE1110200100000000200
+String =  
+String =  
+String =  
+
+[Configuration]
+String = Default string

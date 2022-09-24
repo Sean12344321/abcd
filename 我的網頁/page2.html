@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html style="height:75%">
+    <head>
+        <meta name="google-site-verification" content="LVy4KJ_dxNe3Nvzm01vVWFimnO_7rY-K7oF3iSMkWGU" />
+        <meta charset="UTF-8"/>
+        <meta name="description" content="我的備審資料"/>
+        <meta name="keywords" content="備審, html, css, javescript"/>
+        <meta name="viewpoint" content="width=device.width, initial-scale=1.0"/>
+        <title>我的網頁</title>
+        <link rel="stylesheet" href="page2.css"/>
+    </head>
+    <body>
+        <p id="p_id">參考作品</p>
+        <img id="img_id" src = "https://drive.google.com/uc?export=view&id=1hAzuxYs7KvRRKDArst3F0JqMx2K3bGkZ" width = 200/>
+        <p id="name_p">貪吃蛇(低配版)</p>
+        <form>
+            <input type="radio" id="s1" name="diff" value="easy">
+            <br/>
+            <input type="radio" id="s2" name="diff" value="normal" checked>
+            <br/>
+            <input type="radio" id="s3" name="diff" value="hard">
+        </form>
+        <p id="score_p">分數</p>
+        <p id="score_id">0</h1>
+        <p id="high_p">紀錄</p>
+        <p id="high_id">0</h1>
+        <div class="container">
+            <canvas width="600" height="600" id="canvas_id"></canvas>
+            <button id="button_id">開始遊戲</button>
+            <a href="click.html" id="b_id">上一頁</a>
+        </div>
+        <script src="page2.js"></script>
+        <script>
+            function toggleZoomScreen() {
+                document.body.style.zoom = "75%";
+            } 
+         </script>
+    </body>
+</html>

@@ -1,0 +1,8 @@
+D:\Users\robinzhou\Desktop\TEST-1001\RMANB-20210801-test\WINTEST\MICIN\
+LoopbackWire:No
+MICDevice:10
+MICDevice:10
+LeftChannel:500
+LeftChannel:500
+RightChannel:500
+RightChannel:500

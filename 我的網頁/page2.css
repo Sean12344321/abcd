@@ -1,0 +1,120 @@
+*{
+    background-color:black;
+}
+p{
+    color:orange;
+}
+input[type = radio]{
+    width:30px;
+    height:30px;
+}
+#p_id{
+    position: absolute;
+    color:blue;
+    font-size: 30px;
+    left:1690px;
+    top:400px;
+}
+#img_id{
+    position:absolute;
+    left:1660px;
+    top:500px;
+}
+#name_p{
+    position: absolute;
+    left:60px;
+    margin-top: 40px;
+    font-size:80px;
+    color:white;
+}
+#s1{
+    position:absolute;
+    left:100px;
+    top:400px;
+}
+#s1::after{
+    content:"Easy";
+    color:rgb(0, 217, 255);
+    position: relative;
+    bottom:30px;
+    margin-left: 100px;
+    font-size: 80px;
+}
+#s2{
+    position:absolute;
+    top:500px;
+    left:100px;
+}
+#s2::after{
+    content:"Normal";
+    color:rgb(184, 158, 14);
+    position: relative;
+    bottom:30px;
+    margin-left: 100px;
+    font-size: 80px;
+}
+#s3{
+    position:absolute;
+    top:600px;
+    left:100px;
+}
+#s3::after{
+    content:"Hard";
+    color:red;
+    position: relative;
+    bottom:30px;
+    margin-left: 100px;
+    font-size: 80px;
+}
+#score_p{
+    position: absolute;
+    font-size:80px;
+    left:1500px;
+    margin-top: 20px;
+}
+#score_id{
+    position: absolute;
+    font-size:80px;
+    top:140px;
+    left:1550px;
+    margin-top: 40px;
+}
+#high_p{
+    position: absolute;
+    font-size:80px;
+    left:1800px;
+    margin-top: 20px;
+}
+#high_id{
+    position: absolute;
+    font-size:80px;
+    top:140px;
+    left:1850px;
+    margin-top: 40px;
+}
+.container{
+    position:absolute;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    height:700px;
+    width:700px;
+    top:100px;
+    left:700px;
+    background-color: green;
+}
+#canvas_id{
+    background-color: rgb(58, 238, 58);
+}
+#button_id{
+    font-size:70px;
+    position: inherit;
+    background-color: blueviolet;
+}
+#b_id{
+    position:absolute;
+    top:770px;
+    font-size: 60px;
+    color:brown;
+}

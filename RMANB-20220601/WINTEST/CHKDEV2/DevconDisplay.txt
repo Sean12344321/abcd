@@ -1,0 +1,4 @@
+PCI\VEN_10DE&DEV_139A&SUBSYS_115B1462&REV_A2\4&238A6582&0&0008: NVIDIA GeForce GTX 950M
+ROOT\DISPLAY\0000                                           : CyberLink Mirror Driver
+PCI\VEN_8086&DEV_191B&SUBSYS_115B1462&REV_06\3&11583659&0&10: Intel(R) HD Graphics 530
+3 matching device(s) found.

@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive\桌面\RMANB-20220601\WINTEST\MICOUT\
+LoopbackWire:No
+MICDevice:0
+MICDevice:0
+LeftChannel:100
+LeftChannel:100
+RightChannel:100
+RightChannel:100

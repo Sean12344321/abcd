@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <mpSettings>
+    <testSelected>
+      <Reset value="True" />
+      <SPI value="True" />
+      <PixelOpenShort value="True" />
+      <FlatEnd value="False" />
+      <CheckOTP value="True" />
+      <Performance value="True" />
+      <GPIO value="True" />
+      <CalibrateParameter value="True" />
+      <SNR value="False" />
+      <VBSConnect value="True" />
+    </testSelected>
+    <AutoExecute value="False" />
+    <AutoClose value="False" />
+    <EnableOutputCustomLog value="True" />
+    <PerformanceTimeout value="10" />
+    <FlatEndTimeout value="20" />
+    <ResetTimeout value="10" />
+    <CaliParameterTimeout value="10" />
+  </mpSettings>
+  <frrSettings>
+    <testSelected>
+    </testSelected>
+  </frrSettings>
+</configuration>
